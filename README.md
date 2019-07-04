@@ -11,11 +11,11 @@ CMD + Spacebar - searching
 
 Linux commands
 
-touch - creating a file
-ls - list files
-rm - remove
-mkdir - make directory
-man <command name> - manual
+* touch - creating a file
+* ls - list files
+* rm - remove
+* mkdir - make directory
+* man <command name> - manual
 
 ## Exercises
 
