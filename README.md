@@ -41,6 +41,9 @@ hint: useful commands - mkdir, ls, touch
 ### 3) Scripting
 Modify the example.sh script to print out all even numbers from 1-100 when terminal is opened. This will combine the previous exercises together. The path to the script should be added to your bash_profile.
 
+Script can be run using 
+`$ sh example.sh`
+
 
 
 
