@@ -73,4 +73,11 @@ Copy all files with .jpeg and .sh extension with the one command to the top leve
 
 hint: `man cp`
 
+# GIT Introduction
 
+## Setting up first repo
+Using GIT web interface setup new git repo. Don't initialise with README.md file leave blank.
+
+With command line setup and initialise the repo using terminal commands. First create a folder initialise the folder with git, add in a readme with the contents "HELLO WORLD FROM GITHUB". 
+
+After adding the file try to add the file and push it into github.
